@@ -33,7 +33,7 @@
 
 ### ⚙️ DevOps & Tools
 *   **Version Control:** Git, GitHub
-*   **Testing & Environment:** Postman, Docker, IIS
+*   **Testing & Environment:** Postman, IIS
 *   **IDEs:** Visual Studio, VS Code
 
 ---
@@ -49,8 +49,8 @@
 
 Let's build something awesome together or chat about .NET and AI!
 
-*   💼 **LinkedIn:** [linkedin.com/in/your-profile-slug](https://www.linkedin.com/in/shrouk-shabaan/) 
-*   📧 **Email:** [shorokshabbaan@gmail.com](mailto:your.email@example.com) 
+*   💼 **LinkedIn:** [linkedin.com/in/shrouk-shabaan/](https://www.linkedin.com/in/shrouk-shabaan/) 
+*   📧 **Email:** [shorokshabbaan@gmail.com](mailto:[shorokshabbaan@gmail.com) 
 
 ---
 
