@@ -9,11 +9,11 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Full-Stack Web Generative AI Development using .Net , Information Technology Institute (ITI), Mansoura branch.
-- 💻 Full-Stack Developer specializing in **ASP.NET Core (.NET)** and **Angular**
-- 🤖 Interested in AI-powered applications, backend architecture, and modern web technologies
-- 🌱 Currently improving my skills in scalable backend systems, system design, and cloud technologies
-- 🚀 Passionate about solving real-world problems through technology
+*   🎓 **Education:** Graduated from the **Information Technology Institute (ITI)**, Mansoura branch, specializing in *Full-Stack Web Generative AI Development using .NET*.
+*   💻 **Specialization:** Building robust backend architectures with **ASP.NET Core (.NET 10)** and highly responsive frontends using **Angular (v21)**.
+*   🤖 **AI Focus:** Actively designing AI-powered workflows, automated pipelines, and **RAG (Retrieval-Augmented Generation)** semantic search systems.
+*   🌱 **Currently Exploring:** Advanced system design patterns, scalable distributed architectures, and DevOps/containerization workflows.
+*   🚀 **Mission:** Solving real-world problems with clean, maintainable code and smart automation.
 
 ---
 
