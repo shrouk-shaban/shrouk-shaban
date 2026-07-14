@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shorok Shaaban</h1>
+<h1 align="center">Hi 👋, I'm Shrouk Shaaban</h1>
 <h3 align="center">Full-Stack .NET Developer | Angular Developer | AI Enthusiast</h3>
 
 <p align="center">
