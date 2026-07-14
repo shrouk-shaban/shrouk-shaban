@@ -17,65 +17,41 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
-### Backend
-- ASP.NET Core (.NET)
-- C#
-- Entity Framework Core
-- SQL Server
-- RESTful APIs
-- JWT Authentication
-- 3-tier Architecture
+### 🖥️ Backend & Database
+*   **Languages & Frameworks:** C#, ASP.NET Core (.NET 10), Web APIs
+*   **Data & Mapping:** Entity Framework Core, SQL Server, Linq, Migrations
+*   **Architecture & Security:** 3-Tier Architecture, Repository Pattern, JWT Authentication, Identity
 
+### 🎨 Frontend
+*   **Frameworks & Styling:** Angular (v21), TypeScript, HTML5, CSS3, Tailwind CSS, Bootstrap
 
-### Frontend
-- Angular
-- TypeScript
-- Tailwind CSS
-- HTML5
-- CSS3
+### 🤖 AI, Integrations & Services
+*   **AI Models & SDKs:** Semantic Search (RAG), Google Gemini API, Whisper.NET
+*   **APIs & Gateways:** Stripe Integration, RESTful API Orchestration
 
-### AI & Integrations
-- Google Gemini
-- Whisper.NET
-- Semantic Search (RAG)
-
-### Tools
-- Git & GitHub
-- Postman
-- Visual Studio
-- VS Code
+### ⚙️ DevOps & Tools
+*   **Version Control:** Git, GitHub
+*   **Testing & Environment:** Postman, Docker, IIS
+*   **IDEs:** Visual Studio, VS Code
 
 ---
 
-
-### ⚙️ Tech Stack
-
-- ASP.NET Core (.NET 10)
-- Angular 21
-- SQL Server
-- Entity Framework Core
-- Tailwind CSS
-- Whisper.NET
-- Stripe
-
----
-
-## 📈 Currently Learning
-
-- Advanced .NET
-- System Design
-- Design Patterns
-
+## 📈 Current Focus & Learning
+*   Designing highly scalable distributed backend systems.
+*   Mastering advanced structural and behavioral design patterns.
+*   Deepening expertise in robust **3-Tier Architecture** implementation across complex enterprise solutions.
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
-- 📧 Email: YOUR_EMAIL@example.com
+Let's build something awesome together or chat about .NET and AI!
+
+*   💼 **LinkedIn:** [linkedin.com/in/your-profile-slug](https://www.linkedin.com/in/shrouk-shabaan/) 
+*   📧 **Email:** [shorokshabbaan@gmail.com](mailto:your.email@example.com) 
 
 ---
 
-⭐ Feel free to explore my repositories and don't hesitate to connect!
+⭐ *Feel free to explore my repositories, check out my projects, and don't hesitate to reach out!*
