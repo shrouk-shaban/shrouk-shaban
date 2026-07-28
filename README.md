@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shrouk Shaaban</h1>
 <h3 align="center">Full-Stack .NET Developer | Angular Developer | AI Enthusiast</h3>
 
-<p align="center">
-  Passionate about building scalable, user-focused web applications with modern technologies and AI integration.
-</p>
-
----
 
 ## 👩‍💻
 
