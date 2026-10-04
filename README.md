@@ -38,6 +38,8 @@
 **Database**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat\&logo=microsoftsqlserver\&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_Database-000000?style=flat\&logo=pinecone\&logoColor=white)
+
 
 **Frontend**
 
